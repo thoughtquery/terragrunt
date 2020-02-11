@@ -34,8 +34,8 @@
   version = "0.52.0"
 
 [[constraint]]
-  branch = "master"
   name = "google.golang.org/api"
+  version = "0.17.0"
 
 [[constraint]]
   name = "github.com/go-errors/errors"

@@ -18,6 +18,7 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"golang.org/x/oauth2/jwt"
 	"google.golang.org/api/option"
+	"google.golang.org/api/iterator"
 )
 
 /*
